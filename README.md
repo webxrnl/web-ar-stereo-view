@@ -16,7 +16,7 @@ PROJECT_NAME="ar-stereo-view"
 3. Clone the repo and setup the git remotes
 
 ```
-git clone --origin ithub/"$GITHUB_USERNAME" git@github.com:${GITHUB_USERNAME}/ar-stereo-view.git $PROJECT_NAME
+git clone --origin github/"$GITHUB_USERNAME" git@github.com:${GITHUB_USERNAME}/ar-stereo-view.git $PROJECT_NAME
 ```
 
 4. Add WebXR NL upstream
