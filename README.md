@@ -32,11 +32,11 @@ make your edits
 
 ```
 git add -A
-git commit -m"your commit message"
+git commit -m "your commit message"
 git push
 ```
 
-Which would make a commit under your fork, Now open `https://github.com:${GITHUB_USERNAME}/web-ar-stereo-view` in your browser and iopen pull request.
+Which would make a commit under your fork, Now open `https://github.com:${GITHUB_USERNAME}/web-ar-stereo-view` in your browser and open pull request.
 
 6. If you need to update your fork just run
 
