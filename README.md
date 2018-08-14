@@ -38,7 +38,7 @@ git push
 
 Which would make a commit under your fork, Now open `https://github.com:${GITHUB_USERNAME}/ar-stereo-view` in your browser and iopen pull request.
 
-6. If you need to update your for just run
+6. If you need to update your fork just run
 
 ```
 git fetch --all
